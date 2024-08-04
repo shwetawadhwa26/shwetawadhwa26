@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Wadhwa</h1>
 
-<h3 align="center">I am a fullstack developer * </h3>
+<h3 align="center">I am a fullstack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetawadhwa26&label=Profile%20views&color=0e75b6&style=flat" alt="shwetawadhwa26" /> </p>
 
