@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shweta Wadhwa</h1>
+<h1 align="center">Hi👋, I'm Shweta Wadhwa</h1>
 
 <h3 align="center">I am a fullstack developer </h3>
 
